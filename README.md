@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo/javascript-logo-banner.jpg" alt="HackerJS" />  
+  <img src="logo/hacker-js-logo-banner.png" alt="HackerJS" />  
 </p>
 
 HackerJS Contribute
